@@ -12,4 +12,4 @@
 - **Creating a Simple Django Project and Application** - https://docs.djangoproject.com/en/5.0/intro/tutorial01/:
   - Instructions on setting up a basic Django project and creating a simple application within it.
 
-- **Media and static folders**
+- **Media and static folders** - https://testdriven.io/blog/django-static-files/
